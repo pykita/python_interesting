@@ -1,5 +1,8 @@
-def main():
-    print('Initial')
+from test import Test
 
-if __name__ == '__main__':
-    main()
+
+def main():
+    b = bytes([1,'2','3'])
+    print(repr(b))
+
+main()
