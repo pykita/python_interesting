@@ -1,5 +1,5 @@
-class Test:
-    vari = 534
+def main():
+    print(hash('asd'))
 
-    def some(self):
-        print(self.vari)
+if __name__ == '__main__':
+    main()
